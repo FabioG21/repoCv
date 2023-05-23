@@ -1,0 +1,22 @@
+.destacado {
+    color: #005677;
+    background-color: #C4C4C4;
+
+}
+.destacado2 {
+    color:  #005677;
+    background-color: #C4C4C4;
+}
+p{
+    color:  #000000;
+}
+body{
+    background-color: #E5E5E5;
+}
+header{
+    text-align: center;
+}
+
+.indentado{
+    text-indent: 80px ;
+}
